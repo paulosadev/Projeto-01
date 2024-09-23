@@ -9,4 +9,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 
 
-<img src="https://github.com/paulosadev/Easy-Shopping/blob/main/assets/Fundo%20Mockup.jpg?raw=true" alt="fundo-mockup">
+<img src="https://github.com/paulosadev/We-Care/blob/main/assets/fundo%20mockup%202.jpg?raw=true">
